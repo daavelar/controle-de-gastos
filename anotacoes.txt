@@ -1,0 +1,19 @@
+- arquitetura monolito vs arquitetura microserviços
+https://www.zappts.com/blog/arquitetura-monolitica-e-microsservicos/#:~:text=Arquitetura%20Monol%C3%ADtica%20%C3%A9%20um%20sistema,dentro%20de%20uma%20%C3%BAnica%20plataforma.
+
+Sobre acoplamento e coesão
+ A coesão é o grau com o qual um módulo tem uma responsabilidade única e bem definida. O acoplamento é o grau com o qual um módulo depende de outros módulos para seu funcionamento. O ideal, para que um sistema seja flexível e compreensível, são módulos com alta coesão e baixo acoplamento.
+
+Javascript overview
+https://www.imaginarycloud.com/blog/a-javascript-ecosystem-overview/
+git - https://kenzie.com.br/blog/o-que-e-git/
+
+// NODEJS
+instalando node - https://nodejs.org/en/download/
+node, npm e npx - https://pt.stackoverflow.com/questions/433378/qual-a-diferen%C3%A7a-entre-npm-e-npx#:~:text=O%20que%20%C3%A9%20NPX%3F,X%20no%20final%20da%20sigla.
+
+O que é cache?
+https://br.hubspot.com/blog/marketing/o-que-e-cache
+
+O que é o localStorage?
+https://developer.chrome.com/docs/devtools/storage/localstorage/
